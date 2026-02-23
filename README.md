@@ -1,12 +1,33 @@
-## Hi there!
-### My name is Maria Carla, I'm a Computar Scientist student. At the moment I'm currently at Vila Velha's University (Universidade de Vila Velha) on my fifth period.
-####Linguagens já utilizadas:
+## Hi there! 👋
+
+### My name is Maria Carla, and I am a Computer Science student.
+
+I am currently in my fifth semester at Vila Velha University (Universidade de Vila Velha).
+
+---
+
+### **💻 Programming languages I have worked with:**
 - Java
 - C
 - C#
 - JavaScript
+- SQL
 
+### 📚 Currently studying:
 
+- Data Structures II
+- Computer Architecture II
+- Theory of Computation
+- Linear Algebra and Analytical Geometry
+- Web Application Development
+- Software Testing and Quality
+- Personal and Professional Development
+  
+### 🎯 Career Objective
+
+I am currently seeking an internship opportunity in the IT field.
+
+My goal is to develop professionally by applying the knowledge I have learned during my degree in real-world projects, while continuing to learn and strengthen my technical and problem-solving skills.
 
 
 
