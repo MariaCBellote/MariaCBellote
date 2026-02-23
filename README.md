@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there!
+### My name is Maria Carla, I'm a Computar Scientist student. At the moment I'm currently at Vila Velha's University (Universidade de Vila Velha) on my fifth period.
+####Linguagens já utilizadas:
+- Java
+- C
+- C#
+- JavaScript
+
+
+
+
 
 <!--
 **MariaCBellote/MariaCBellote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
