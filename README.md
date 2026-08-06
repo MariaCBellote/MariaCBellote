@@ -2,7 +2,7 @@
 
 ### My name is Maria Carla, and I am a Computer Science student.
 
-I am currently in my fifth semester at Vila Velha University (Universidade de Vila Velha).
+I am currently in my sixth semester at Vila Velha University (Universidade de Vila Velha).
 
 ---
 
@@ -12,16 +12,8 @@ I am currently in my fifth semester at Vila Velha University (Universidade de Vi
 - C#
 - JavaScript
 - SQL
-
-### 📚 Currently studying:
-
-- Data Structures II
-- Computer Architecture II
-- Theory of Computation
-- Linear Algebra and Analytical Geometry
-- Web Application Development
-- Software Testing and Quality
-- Personal and Professional Development
+- Java
+- YAML
   
 ### 🎯 Career Objective
 
