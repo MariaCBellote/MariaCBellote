@@ -26,10 +26,13 @@ I'm interested in software development, problem solving and learning how technol
 Currently, I'm focused on strengthening my programming fundamentals, exploring different technologies and building projects that allow me to put what I learn into practice.
 
 ---
+
+
 🚀 Currently looking for an internship opportunity in IT
+
+
 ---
 
-## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
 
