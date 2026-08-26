@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Maria Carla
+#  Hi there! I'm Maria Carla
 
 ### 💻 Computer Science Student | Aspiring Software Developer
 
@@ -34,7 +34,7 @@ Currently, I'm focused on strengthening my programming fundamentals, exploring d
 ---
 
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -44,7 +44,7 @@ Currently, I'm focused on strengthening my programming fundamentals, exploring d
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### 🌐 Web & Development
+###  Web & Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -52,7 +52,7 @@ Currently, I'm focused on strengthening my programming fundamentals, exploring d
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
-### 🧰 Tools & Other Technologies
+###  Tools & Other Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -63,7 +63,7 @@ Currently, I'm focused on strengthening my programming fundamentals, exploring d
 
 ---
 
-## 📚 What I'm Learning
+##  What I'm Learning
 
 Currently, I'm expanding my knowledge in:
 
@@ -79,7 +79,7 @@ Currently, I'm expanding my knowledge in:
 ---
 
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MariaCBellote&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
@@ -89,7 +89,7 @@ Currently, I'm expanding my knowledge in:
 
 
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://github.com/MariaCBellote">
