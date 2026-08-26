@@ -3,7 +3,7 @@
 ### 💻 Computer Science Student | Aspiring Software Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F3ACE&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Developer;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F3ACE&center=true&vCenter=true&width=600&lines=Computer+Science+Student;%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,11 +25,8 @@ I'm interested in software development, problem solving and learning how technol
 
 Currently, I'm focused on strengthening my programming fundamentals, exploring different technologies and building projects that allow me to put what I learn into practice.
 
-🎓 Computer Science student
-💻 Interested in Software Development
-📚 Always learning and improving my technical skills
+---
 🚀 Currently looking for an internship opportunity in IT
-
 ---
 
 ## 🛠️ Technologies & Tools
@@ -58,7 +55,6 @@ Currently, I'm focused on strengthening my programming fundamentals, exploring d
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
 </p>
 
@@ -76,53 +72,6 @@ Currently, I'm expanding my knowledge in:
 * 🧠 Software Engineering
 * 🔐 Computer Networks & Systems
 * 📐 Computer Science fundamentals
-
----
-
-## 🚀 Featured Projects
-
-### ♻️ Trash2Cash
-
-A technological solution designed to encourage recycling by transforming recyclable materials into rewards.
-
-The project combines:
-
-* ♻️ Recycling
-* 🤖 Artificial Intelligence
-* 📱 Mobile application
-* 🏆 Gamification
-* 🤝 Partnerships and rewards
-
-The idea involves a smart recycling machine capable of identifying recyclable materials and assigning points to users through an integrated application.
-
----
-
-### 🎮 Unity Projects
-
-I've also been exploring game development with **Unity and C#**, working with concepts such as:
-
-* Player movement
-* Physics and collisions
-* Game mechanics
-* Object spawning
-* Particle systems
-* Input systems
-* Game states
-
----
-
-### 📊 Data Structures & Algorithms
-
-Academic and personal exercises involving:
-
-* Trees
-* B-Trees
-* Graphs
-* Hash tables
-* Sorting algorithms
-* Searching algorithms
-* Recursion
-* Pointers and memory management
 
 ---
 
@@ -148,23 +97,6 @@ Academic and personal exercises involving:
 <p align="center">
   <img src="https://raw.githubusercontent.com/MariaCBellote/MariaCBellote/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
-
----
-
-## 🎯 Career Objective
-
-I'm currently looking for an **internship opportunity in the IT field**.
-
-My goal is to gain professional experience, contribute to real-world projects and apply the knowledge acquired throughout my degree while continuing to develop my technical and problem-solving skills.
-
-I'm especially interested in opportunities where I can:
-
-* 💻 Develop software
-* 🧠 Solve technical problems
-* 📚 Learn from experienced professionals
-* 🤝 Work collaboratively
-* 🚀 Contribute to meaningful projects
-
 ---
 
 ## 📫 Let's Connect
@@ -173,7 +105,7 @@ I'm especially interested in opportunities where I can:
   <a href="https://github.com/MariaCBellote">
     <img src="https://img.shields.io/badge/GitHub-MariaCBellote-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/maria-carla-bellote-a06bb92b7">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
