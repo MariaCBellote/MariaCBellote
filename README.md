@@ -78,14 +78,6 @@ Currently, I'm expanding my knowledge in:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaCBellote&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Maria Carla's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCBellote&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -95,12 +87,7 @@ Currently, I'm expanding my knowledge in:
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MariaCBellote/MariaCBellote/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
----
 
 ## 📫 Let's Connect
 
